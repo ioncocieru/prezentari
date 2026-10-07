@@ -1,1 +1,0 @@
-{"cleanUrls":true,"rewrites":[{"source":"/test/:slug","destination":"/c.html?c=:slug&t=1"},{"source":"/:slug","destination":"/c.html?c=:slug"}]}
