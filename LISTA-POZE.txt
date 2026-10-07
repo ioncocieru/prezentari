@@ -1,0 +1,79 @@
+LISTA IMAGINILOR DE PUS IN FOLDERUL poze/
+
+Reguli: numele fisierului trebuie scris EXACT (litere mari/mici, spatii, extensie). Format .jpg recomandat; poza ar trebui sa fie patrata sau cu fata in partea de sus.
+Daca o poza lipseste, in locul ei apare un desen. Poza de coperta inlocuieste ilustratia de pe prima pagina.
+
+=== UMANISMUL (secolele XIV–XVI) ===
+Poza de coperta (prima pagina): poze/Umanismul.jpg
+  Petrarca  ->  poze/Petrarca.jpg
+  Erasmus  ->  poze/Erasmus.jpg
+  Thomas More  ->  poze/Thomas More.jpg
+  François Rabelais  ->  poze/Rabelais.jpg
+  Miron Costin  ->  poze/Miron Costin.jpg
+
+=== CLASICISMUL (secolul XVII) ===
+Poza de coperta (prima pagina): poze/Clasicismul.jpg
+  Molière  ->  poze/Moliere.jpg
+  Pierre Corneille  ->  poze/Corneille.jpg
+  Jean Racine  ->  poze/Racine.jpg
+  Nicolas Boileau  ->  poze/Boileau.jpg
+  La Fontaine  ->  poze/La Fontaine.jpg
+
+=== ILUMINISMUL (secolul XVIII) ===
+Poza de coperta (prima pagina): poze/Iluminismul.jpg
+  Voltaire  ->  poze/Voltaire.jpg
+  Montesquieu  ->  poze/Montesquieu.jpg
+  Jean-Jacques Rousseau  ->  poze/Rousseau.jpg
+  Denis Diderot  ->  poze/Diderot.jpg
+  Ion Budai-Deleanu  ->  poze/Budai-Deleanu.jpg
+  Samuil Micu  ->  poze/Samuil Micu.jpg
+
+=== ROMANTISMUL (sfârșitul sec. XVIII – sec. XIX) ===
+Poza de coperta (prima pagina): poze/Romantismul.jpg
+  Mihai Eminescu  ->  poze/Mihai Eminescu.jpg
+  Vasile Alecsandri  ->  poze/Vasile Alecsandri.jpg
+  Dimitrie Bolintineanu  ->  poze/Bolintineanu.jpg
+  Victor Hugo  ->  poze/Victor Hugo.jpg
+  Goethe  ->  poze/Goethe.jpg
+  Mihail Kogălniceanu  ->  poze/Kogalniceanu.jpg
+
+=== REALISMUL (sec. XIX) ===
+Poza de coperta (prima pagina): poze/Realismul.jpg
+  Honoré de Balzac  ->  poze/Balzac.jpg
+  Gustave Flaubert  ->  poze/Flaubert.jpg
+  Ioan Slavici  ->  poze/Slavici.jpg
+  I. L. Caragiale  ->  poze/Caragiale.jpg
+  Liviu Rebreanu  ->  poze/Rebreanu.jpg
+
+=== SIMBOLISMUL (a doua jumătate a sec. XIX – începutul sec. XX) ===
+Poza de coperta (prima pagina): poze/Simbolismul.jpg
+  Charles Baudelaire  ->  poze/Baudelaire.jpg
+  Paul Verlaine  ->  poze/Verlaine.jpg
+  Arthur Rimbaud  ->  poze/Rimbaud.jpg
+  George Bacovia  ->  poze/Bacovia.jpg
+  Alexandru Macedonski  ->  poze/Macedonski.jpg
+
+=== MODERNISMUL (sec. XX (interbelic)) ===
+Poza de coperta (prima pagina): poze/Modernismul.jpg
+  Lucian Blaga  ->  poze/Lucian_Blaga_(1).jpg
+  Ion Barbu  ->  poze/ion barbu.jfif
+  Camil Petrescu  ->  poze/camil petrescu.jfif
+  H. Papadat-Bengescu  ->  poze/Hortensia Papadat-Bengescu.webp
+  Mateiu Caragiale  ->  poze/Mateiu Caragiale.jpg
+  Eugen Lovinescu  ->  poze/Eugen Lovinescu.webp
+  Max Blecher  ->  poze/Max Blecher.avif
+  Mircea Eliade  ->  poze/Mircea_Eliade_young.jpg
+  Marcel Proust  ->  poze/Marcel Proust.jpg
+  James Joyce  ->  poze/James Joyce.jpg
+  Franz Kafka  ->  poze/Franz Kafka.jfif
+  Virginia Woolf  ->  poze/Virginia Woolf.webp
+  T. S. Eliot  ->  poze/T. S. Eliot.jfif
+  Rainer Maria Rilke  ->  poze/images.webp
+
+=== POSTMODERNISMUL (a doua jumătate a sec. XX) ===
+Poza de coperta (prima pagina): poze/Postmodernismul.jpg
+  Umberto Eco  ->  poze/Umberto Eco.jpg
+  Jorge Luis Borges  ->  poze/Borges.jpg
+  Italo Calvino  ->  poze/Calvino.jpg
+  Mircea Cărtărescu  ->  poze/Cartarescu.jpg
+  Gheorghe Crăciun  ->  poze/Craciun.jpg
